@@ -1,0 +1,2 @@
+module ProjectJava8ExemploData {
+}
